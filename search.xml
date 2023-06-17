@@ -165,10 +165,10 @@
 <hr>
 <h2 id="圖片"><a class="header-anchor" href="#圖片">¶</a>圖片</h2>
 <h3 id="插入圖片"><a class="header-anchor" href="#插入圖片">¶</a>插入圖片</h3>
-<p><img src="../_images/shan.png" alt="Shan" title="Hi! I'm Shan."></p>
+<p><img src="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png" alt="Shan" title="Hi! I'm Shan."></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![圖片敘述 alt](圖片路徑 &quot;游標顯示&quot;)</span><br><span class="line"></span><br><span class="line">![Shan](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png &quot;Hi! I&#x27;m Shan.&quot;)</span><br></pre></td></tr></table></figure>
 <h3 id="點擊連至外部網頁"><a class="header-anchor" href="#點擊連至外部網頁">¶</a>點擊連至外部網頁</h3>
-<p><a href="%E9%80%A3%E7%B5%90%E7%B6%B2%E5%9D%80"><img src="%E5%9C%96%E7%89%87%E7%B6%B2%E5%9D%80" alt="圖片敘述 alt"></a></p>
+<p><a href="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png"><img src="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png" alt="Shan"></a></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[![圖片敘述 alt](圖片路徑)](連結網址)</span><br><span class="line"></span><br><span class="line">[![Shan](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png)](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png)</span><br></pre></td></tr></table></figure>
 <hr>
 <h2 id="跳脫字元"><a class="header-anchor" href="#跳脫字元">¶</a>跳脫字元</h2>
