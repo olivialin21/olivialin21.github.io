@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>常用 Markdown 語法</title>
-    <url>/olivialin21.github.io/2023/06/17/%E5%B8%B8%E7%94%A8%20Markdown%20%E8%AA%9E%E6%B3%95/</url>
+    <url>/2023/06/17/%E5%B8%B8%E7%94%A8%20Markdown%20%E8%AA%9E%E6%B3%95/</url>
     <content><![CDATA[<p>為了寫部落格需要大量使用 Markdown 語法，就以第一篇文章來練習吧！d(&#96;･∀･)b</p>
 <span id="more"></span>
 <hr>
@@ -159,9 +159,9 @@
 </tbody></table>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">| 欄位1 | 欄位2 | 欄位3 |</span><br><span class="line">| :-- | --: |:--:|</span><br><span class="line">| 置左 | 置右 | 置中 |</span><br></pre></td></tr></table></figure>
 <hr>
-<h1 id="圖片"><a href="#圖片" class="headerlink" title="圖片"></a>圖片</h1><h2 id="插入圖片"><a href="#插入圖片" class="headerlink" title="插入圖片"></a>插入圖片</h2><p><img src="/olivialin21.github.io/../_images/shan.png" alt="Shan" title="Hi! I&#39;m Shan."></p>
+<h1 id="圖片"><a href="#圖片" class="headerlink" title="圖片"></a>圖片</h1><h2 id="插入圖片"><a href="#插入圖片" class="headerlink" title="插入圖片"></a>插入圖片</h2><p><img src="/../_images/shan.png" alt="Shan" title="Hi! I&#39;m Shan."></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![圖片敘述 alt](圖片路徑 &quot;游標顯示&quot;)</span><br><span class="line"></span><br><span class="line">![Shan](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png &quot;Hi! I&#x27;m Shan.&quot;)</span><br></pre></td></tr></table></figure>
-<h2 id="點擊連至外部網頁"><a href="#點擊連至外部網頁" class="headerlink" title="點擊連至外部網頁"></a>點擊連至外部網頁</h2><p><a href="%E9%80%A3%E7%B5%90%E7%B6%B2%E5%9D%80"><img src="/olivialin21.github.io/%E5%9C%96%E7%89%87%E7%B6%B2%E5%9D%80" alt="圖片敘述 alt"></a></p>
+<h2 id="點擊連至外部網頁"><a href="#點擊連至外部網頁" class="headerlink" title="點擊連至外部網頁"></a>點擊連至外部網頁</h2><p><a href="%E9%80%A3%E7%B5%90%E7%B6%B2%E5%9D%80"><img src="/%E5%9C%96%E7%89%87%E7%B6%B2%E5%9D%80" alt="圖片敘述 alt"></a></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[![圖片敘述 alt](圖片路徑)](連結網址)</span><br><span class="line"></span><br><span class="line">[![Shan](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png)](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png)</span><br></pre></td></tr></table></figure>
 <hr>
 <h1 id="跳脫字元"><a href="#跳脫字元" class="headerlink" title="跳脫字元"></a>跳脫字元</h1><p>在特殊符號前方加上 <code>\</code> 避免觸發 Markdown 樣式。</p>
