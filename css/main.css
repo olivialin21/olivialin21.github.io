@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffc245;
+  background: #57ffa2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2664,16 +2664,16 @@ ul.breadcrumb li + li:last-child {
   }
 }
 :root {
-  --body-bg-color: #fff5f2;
+  --body-bg-color: #ffeacc;
 }
 .site-brand-container {
-  background: #ee7963;
+  background: #ff985c;
 }
 .headband {
-  background: #ee7963;
+  background: #ff985c;
 }
 .back-to-top {
-  background: #ee7963;
+  background: #ff985c;
 }
 .back-to-top:hover {
   color: #fff;
