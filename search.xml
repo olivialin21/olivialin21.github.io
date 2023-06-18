@@ -152,8 +152,8 @@
 <hr>
 <h2 id="超連結"><a class="header-anchor" href="#超連結">¶</a>超連結</h2>
 <h3 id="文字超連結"><a class="header-anchor" href="#文字超連結">¶</a>文字超連結</h3>
-<p>歡迎來到 <a href="https://olivialin21.github.io/">Shan's Blog</a> 技術分享部落格。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[文字](網址)</span><br><span class="line"></span><br><span class="line">歡迎來到 [Shan\&#x27;s Blog](https://olivialin21.github.io/) 技術分享部落格。</span><br><span class="line">&lt;!-- 因「&#x27;」為特殊符號，前方需加上「\」避免觸發 Markdown 樣式 --&gt;</span><br></pre></td></tr></table></figure>
+<p>歡迎來到 <a href="https://olivialin21.github.io/">糖米's Blog</a> 技術分享部落格。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[文字](網址)</span><br><span class="line"></span><br><span class="line">歡迎來到 [糖米\&#x27;s Blog](https://olivialin21.github.io/) 技術分享部落格。</span><br><span class="line">&lt;!-- 因「&#x27;」為特殊符號，前方需加上「\」避免觸發 Markdown 樣式 --&gt;</span><br></pre></td></tr></table></figure>
 <h3 id="簡易超連結"><a class="header-anchor" href="#簡易超連結">¶</a>簡易超連結</h3>
 <p><a href="https://olivialin21.github.io/">https://olivialin21.github.io/</a></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;網址&gt;</span><br><span class="line"></span><br><span class="line">&lt;https://olivialin21.github.io/&gt;</span><br></pre></td></tr></table></figure>
@@ -179,11 +179,11 @@
 <hr>
 <h2 id="圖片"><a class="header-anchor" href="#圖片">¶</a>圖片</h2>
 <h3 id="插入圖片"><a class="header-anchor" href="#插入圖片">¶</a>插入圖片</h3>
-<p><img src="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png" alt="Shan" title="Hi! I'm Shan."></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![圖片敘述 alt](圖片路徑 &quot;游標顯示&quot;)</span><br><span class="line"></span><br><span class="line">![Shan](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png &quot;Hi! I&#x27;m Shan.&quot;)</span><br></pre></td></tr></table></figure>
+<p><img src="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/olivialin21.png" alt="糖米" title="哈囉～我是糖米"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![圖片敘述 alt](圖片路徑 &quot;游標顯示&quot;)</span><br><span class="line"></span><br><span class="line">![糖米](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/olivialin21.png &quot;哈囉～我是糖米&quot;)</span><br></pre></td></tr></table></figure>
 <h3 id="點擊連至外部網頁"><a class="header-anchor" href="#點擊連至外部網頁">¶</a>點擊連至外部網頁</h3>
-<p><a href="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png"><img src="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png" alt="Shan"></a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[![圖片敘述 alt](圖片路徑)](連結網址)</span><br><span class="line"></span><br><span class="line">[![Shan](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png)](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/shan.png)</span><br></pre></td></tr></table></figure>
+<p><a href="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/olivialin21.png"><img src="https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/olivialin21.png" alt="糖米"></a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[![圖片敘述 alt](圖片路徑)](連結網址)</span><br><span class="line"></span><br><span class="line">[![糖米](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/olivialin21.png)](https://raw.githubusercontent.com/olivialin21/olivialin21.github.io/master/images/olivialin21.png)</span><br></pre></td></tr></table></figure>
 <hr>
 <h2 id="跳脫字元"><a class="header-anchor" href="#跳脫字元">¶</a>跳脫字元</h2>
 <p>在特殊符號前方加上 <code>\</code> 避免觸發 Markdown 樣式。</p>
@@ -210,7 +210,7 @@
 </ul>
 <hr>
 <h2 id="關於作者"><a class="header-anchor" href="#關於作者">¶</a>關於作者</h2>
-<p>大家好我是 Shan，持續在精進網頁前端 + 後端的準自由工作者 😄<br>
+<p>大家好我是<strong>糖米</strong>，持續在精進網頁前端 + 後端的準自由工作者 😄<br>
 希望能透過撰寫技術文章紀錄學習過程，歡迎大家留言提供回饋。<br>
 所有文章都會同步發布在 <a href="https://ithelp.ithome.com.tw/users/20142989">iT 邦幫忙</a>以及 <a href="https://medium.com/@olivialin21/%E5%B8%B8%E7%94%A8-markdown-%E8%AA%9E%E6%B3%95-d48b23096163">Medium</a> 喔！</p>
 ]]></content>
