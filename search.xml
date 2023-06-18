@@ -110,7 +110,7 @@
 <ol>
 <li>打開命令提示字元，進入專案的根目錄執行以下指令</li>
 </ol>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm un hexo-renderer-marked --save # 刪除 Hexo 預設 Markdown 引擎</span><br><span class="line">npm i hexo-renderer-markdown-it --save # 安装 markdown-it</span><br><span class="line">cd node_modules/hexo-renderer-markdown-it/</span><br><span class="line">npm install markdown-it-checkbox --save # 安裝支援 checkbox 樣式的插件 markdown-it-checkbox</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm un hexo-renderer-marked --save # 刪除 Hexo 預設 Markdown 引擎</span><br><span class="line">npm i hexo-renderer-markdown-it --save # 安装 markdown-it</span><br><span class="line">cd node_modules/hexo-renderer-markdown-it/</span><br><span class="line">npm install markdown-it-checkbox --save # 安裝支援 CheckBox 樣式的插件 markdown-it-checkbox</span><br></pre></td></tr></table></figure>
 <ol start="2">
 <li>打開 Hexo 專案根目錄中的 <code>_config.yml</code> 加入以下配置</li>
 </ol>
@@ -119,7 +119,7 @@
 <li>重啟 Hexo 伺服器</li>
 </ol>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo s -g</span><br></pre></td></tr></table></figure>
-<p>就會有美美的 checkbox 囉！</p>
+<p>就會有美美的 CheckBox 囉！</p>
 <hr>
 <h2 id="程式碼"><a class="header-anchor" href="#程式碼">¶</a>程式碼</h2>
 <h3 id="行內程式碼"><a class="header-anchor" href="#行內程式碼">¶</a>行內程式碼</h3>
