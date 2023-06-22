@@ -43,7 +43,7 @@
 <p>一般文字<sup>上標</sup></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">一般文字^上標^</span><br><span class="line">&lt;!-- 在 Hexo 中需使用以下語法 --&gt;</span><br><span class="line">一般文字&lt;sup&gt;上標&lt;/sup&gt;</span><br></pre></td></tr></table></figure>
 <p>一般文字<sub>下標</sub></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">一般文字~下標~</span><br><span class="line">&lt;!-- 在 Hexo 中需使用以下語法 --&gt;</span><br><span class="line">一般文字&lt;sup&gt;上標&lt;/sup&gt;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">一般文字~下標~</span><br><span class="line">&lt;!-- 在 Hexo 中需使用以下語法 --&gt;</span><br><span class="line">一般文字&lt;sub&gt;下標&lt;/sub&gt;</span><br></pre></td></tr></table></figure>
 <p><u>底線</u></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">++底線++</span><br><span class="line">&lt;!-- 在 Hexo 中需使用以下語法 --&gt;</span><br><span class="line">&lt;u&gt;底線&lt;/u&gt;</span><br></pre></td></tr></table></figure>
 <p><mark>螢光標記</mark></p>
